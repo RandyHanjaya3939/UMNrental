@@ -3,6 +3,9 @@ Project UAS matakuliah Pemrograman Web
 
 Project dibuat dengan memanfaatkan teknologi MVC CodeIgniter3 yang dikombinasikan dengan penggunaan HTML, CSS, Bootstrap, MySql, dan PHP
 
+Link for the website:
+Under Construction
+
 Beberapa fitur yang dibuat:
 
 ## Landing page
