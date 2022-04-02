@@ -5,6 +5,9 @@ Project dibuat dengan memanfaatkan teknologi MVC CodeIgniter3 yang dikombinasika
 
 Beberapa fitur yang dibuat
 - Landing page
+<p align="center">
+   <img id="Figure-1" src="/documimage/landingpage.png" width="250" />
+</p>
 - Login / Logout / Sign in / Sign up
 - Renting
 - Shopping chart
